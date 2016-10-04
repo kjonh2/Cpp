@@ -7,5 +7,6 @@ int main()
 {
 	std::cout << "Ola mundo" << std::endl;
 	//GLFWwindow* janela = glfwCreateWindow(600, 400, "Primeira Janela", );
+	//actualizaçao
 	return 0;
 }
